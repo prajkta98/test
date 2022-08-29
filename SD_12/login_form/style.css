@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background-image: url(/SD_12/login_form/img/new_image.jpg);
+  height: 1100px;
+  width: 100%;
+}

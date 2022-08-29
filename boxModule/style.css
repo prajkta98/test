@@ -1,0 +1,22 @@
+.main{
+    background-color:slateblue;
+    height: 700px;
+    width: 900px;
+    margin-right: 100px;
+    margin-left: 300px;
+    margin-top: 50px;
+    border-style: dotted;
+    box-shadow: black;
+}
+
+.box{
+    padding-top: 250px;
+    font-style: italic;
+    font-size: 50px;
+    background-color: aqua;
+    width: 500px;
+    height: 1rem;
+    margin-top: 200px;
+    margin-left: 190px;
+    margin-bottom: 200px;
+}
